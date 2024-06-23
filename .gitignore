@@ -1,0 +1,8 @@
+#idea Goland Directory
+.idea
+
+#tmp Directory for Hot Reload
+.tmp/
+
+#Environtment files
+.env
